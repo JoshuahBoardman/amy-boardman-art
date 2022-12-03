@@ -6,6 +6,12 @@ module.exports = {
 		fontFamily: {
 			'primary': ['Alexandria', 'sans-serif'],
 			'logo': ['Yellowtail', 'cursive', 'sans-serif']
+		  },
+		  colors: {
+			'primary': '#8b615b',
+			'secondary': '#FFF9F9',
+			'background': '#F7D5D5',
+			'highlight': '#CC466D',
 		  }
 	},
 	plugins: [],
